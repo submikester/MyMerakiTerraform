@@ -1,0 +1,30 @@
+Los Angeles|USA, CA|US/Pacific|appliance, switch, wireless, cellularGateway, camera
+New York|USA, NY|US/Eastern|appliance, switch, wireless, cellularGateway, camera
+Chicago|USA, IL|US/Central|appliance, switch, wireless, cellularGateway, camera
+Houston|USA, TX|US/Central|appliance, switch, wireless, cellularGateway, camera
+Phoenix|USA, AZ|US/Arizona|appliance, switch, wireless, cellularGateway, camera
+San Diego|USA, CA|US/Pacific|appliance, switch, wireless, cellularGateway, camera
+San Jose|USA, CA|US/Pacific|appliance, switch, wireless, cellularGateway, camera
+Dallas|USA, TX|US/Central|appliance, switch, wireless, cellularGateway, camera
+San Antonio|USA, TX|US/Central|appliance, switch, wireless, cellularGateway, camera
+Austin|USA, TX|US/Central|appliance, switch, wireless, cellularGateway, camera
+Jacksonville|USA, FL|US/Eastern|appliance, switch, wireless, cellularGateway, camera
+Fort Worth|USA, TX|US/Central|appliance, switch, wireless, cellularGateway, camera
+Columbus|USA, OH|US/Eastern|appliance, switch, wireless, cellularGateway, camera
+Charlotte|USA, NC|US/Eastern|appliance, switch, wireless, cellularGateway, camera
+Indianapolis|USA, IN|US/Eastern|appliance, switch, wireless, cellularGateway, camera
+Seattle|USA, WA|US/Pacific|appliance, switch, wireless, cellularGateway, camera
+Denver|USA, CO|US/Mountain|appliance, switch, wireless, cellularGateway, camera
+WashingtonDC|USA, DC|US/Eastern|appliance, switch, wireless, cellularGateway, camera
+Boston|USA, MA|US/Eastern|appliance, switch, wireless, cellularGateway, camera
+Las Vegas|USA, NV|US/Pacific|appliance, switch, wireless, cellularGateway, camera
+Nashville|USA, TN|US/Eastern|appliance, switch, wireless, cellularGateway, camera
+Portland|USA, OR|US/Pacific|appliance, switch, wireless, cellularGateway, camera
+Oklahoma City|USA, OK|US/Mountain|appliance, switch, wireless, cellularGateway, camera
+Atlanta|USA, GA|US/Eastern|appliance, switch, wireless, cellularGateway, camera
+Miami|USA, FL|US/Eastern|appliance, switch, wireless, cellularGateway, camera
+Orlando|USA, FL|US/Eastern|appliance, switch, wireless, cellularGateway, camera
+Sacramento|USA, CA|US/Pacific|appliance, switch, wireless, cellularGateway, camera
+Fresno|USA, CA|US/Pacific|appliance, switch, wireless, cellularGateway, camera
+Mesa|USA, AZ|US/Arizona|appliance, switch, wireless, cellularGateway, camera
+Albuquerque|USA, NM|US/Mountain|appliance, switch, wireless, cellularGateway, camera
